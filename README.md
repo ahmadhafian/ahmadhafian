@@ -1,2 +1,2 @@
 # ahmadhafian
-<a url:"https://ahmadhafian.github.io/ahmadhafian/">
+https://ahmadhafian.github.io/ahmadhafian/
